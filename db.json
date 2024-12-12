@@ -1,0 +1,93 @@
+{
+    "users": [
+      {
+        "name": "John",
+        "email": "john@gmail.com",
+        "phone": "978378734",
+        "address": "UK",
+        "id": 3,
+        "status": "Active"
+      },
+      {
+        "name": "James",
+        "email": "james@gmail.com",
+        "phone": "98393838",
+        "address": "USA",
+        "id": 4,
+        "status": "Inactive"
+      },
+      {
+        "name": "Jenny",
+        "email": "jenny@gmail.com",
+        "phone": "876766688",
+        "address": "Italy",
+        "id": 5,
+        "status": "Active"
+      },
+      {
+        "name": "Vishal",
+        "email": "vishal@gmail.com",
+        "phone": "878768786",
+        "address": "India",
+        "id": 7,
+        "status": "Inactive"
+      },
+      {
+        "name": "Julie",
+        "email": "julie12345@gmail.com",
+        "phone": "83787367",
+        "address": "India",
+        "id": 8,
+        "status": "Active"
+      },
+      {
+        "name": "Vijay",
+        "email": "Vijayt@gmail.com",
+        "phone": "7376767",
+        "address": "India",
+        "status": "Inactive",
+        "id": 9
+      },
+      {
+        "name": "Raj",
+        "email": "test@gmail.com",
+        "phone": "7376767",
+        "address": "India",
+        "status": "Inactive",
+        "id": 10
+      },
+      {
+        "name": "Sam",
+        "email": "sam@gmail.com",
+        "phone": "7376767",
+        "address": "Finland",
+        "status": "Active",
+        "id": 11
+      },
+      {
+        "name": "Tina",
+        "email": "tine@gmail.com",
+        "phone": "763767989",
+        "address": "New Zealand",
+        "status": "Inactive",
+        "id": 12
+      },
+      {
+        "name": "Tony",
+        "email": "tonygmail.com",
+        "phone": "7376767",
+        "address": "US",
+        "status": "Active",
+        "id": 13
+      },
+      {
+        "name": "Kevin",
+        "email": "kevingmail.com",
+        "phone": "7376767",
+        "address": "Ireland",
+        "status": "Inactive",
+        "id": 14
+      }
+    ]
+  }
+  
